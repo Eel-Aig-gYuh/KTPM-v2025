@@ -1,0 +1,17 @@
+
+GridPane {
+    -fx-background-color: lightblue; 
+    -fx-padding: 5;
+}
+
+Text.Subject {
+    -fx-font-size: 30;
+    -fx-font-weight: bold;
+    -fx-fill: red;
+    -fx-stroke-width: 3;
+    -fx-stroke: gold;
+}
+
+HBox {
+    -fx-spacing: 5;
+}
